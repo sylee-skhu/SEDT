@@ -46,8 +46,6 @@ TBD
 - [Pretrained Model](#pretrained-model)
 - [Training](#training)
 - [Testing](#testing)
-- [Results](#results)
-- [License](#license)
 - [Acknowledgement](#acknowledgement)
 
 ## Requirements
