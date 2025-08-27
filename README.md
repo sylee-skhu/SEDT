@@ -22,7 +22,11 @@ This repository is the official PyTorch implementation of "Empowering Transforme
 </h4>
 
 ## Network Architecture
-- TBD
+
+<p align="center">
+  <img src="assets/net1.png" height="400"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="assets/net2.png" height="400"/>
+</p>
 
 ---
 ## 📧 News
