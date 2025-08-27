@@ -30,6 +30,7 @@ This repository is the official PyTorch implementation of "Empowering Transforme
 
 ---
 ## 📧 News
+- **Aug 27, 2025:** Codes are released
 - **Aug 21, 2025:** This repository is created
 
 ---
