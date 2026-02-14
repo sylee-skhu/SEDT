@@ -30,8 +30,9 @@ This repository is the official PyTorch implementation of "Empowering Transforme
 
 ---
 ## 📧 News
-- **Aug 27, 2025:** Codes are released
-- **Aug 21, 2025:** This repository is created
+- **Jan 18, 2026:** SEDT has been accepted to ICASSP 2026
+- **Aug 27, 2025:** Official codes are released
+- **Aug 21, 2025:** Repository created
 
 ---
 ## Reference
