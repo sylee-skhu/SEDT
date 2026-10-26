@@ -2,9 +2,9 @@
 <h2>Empowering Transformers Spectrally: Towards Comprehensive Pattern Learning for Image Demoir&eacute;ing</h2>
 
 <div>    
-    <a href='https://sylee-skhu.github.io/' target='_blank'>Sangyun Lee</a><sup>†1</sup>&nbsp&nbsp&nbsp&nbsp;
     <a href='mailto:sjhong@skhu.ac.kr' target='_blank'>Sungjun Hong</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
-    <a href='mailto:swkwak@skhu.ac.kr' target='_blank'>Seung Woo Kwak</a><sup>1</sup>
+    <a href='mailto:swkwak@skhu.ac.kr' target='_blank'>Seung Woo Kwak</a><sup>1</sup>&nbsp&nbsp&nbsp&nbsp;
+    <a href='https://sylee-skhu.github.io/' target='_blank'>Sangyun Lee</a><sup>†1</sup>
 </div>
 <br>
 <div>
